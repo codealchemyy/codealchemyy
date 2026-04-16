@@ -53,4 +53,4 @@ A human-centered web app for tracking decisions, recognizing patterns, and gaini
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-LINK-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/busra-demirhan)
