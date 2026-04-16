@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="1920" height="384" alt="Purple Game Development Reddit Banner" src="https://github.com/user-attachments/assets/a87b6636-7fa7-47ec-    a86f-06a2d9a629b9" />
-</p>
-
 <h1 align="center">Hi, I'm Büsra 👋</h1>
 <p align="center">
   Junior Software Engineer building thoughtful, human-centered digital solutions.
