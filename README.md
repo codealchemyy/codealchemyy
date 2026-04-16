@@ -1,5 +1,6 @@
-<img width="1920" height="384" alt="Purple Game Development Reddit Banner" src="https://github.com/user-attachments/assets/b2c48478-bc43-409d-9419-91090d4a38a1" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codealchemyy/codealchemyy/main/banner.png" alt="GitHub banner" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Büsra 👋</h1>
 <p align="center">
