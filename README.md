@@ -1,3 +1,6 @@
+<img width="1920" height="384" alt="Purple Game Development Reddit Banner" src="https://github.com/user-attachments/assets/b2c48478-bc43-409d-9419-91090d4a38a1" />
+
+
 <h1 align="center">Hi, I'm Büsra 👋</h1>
 <p align="center">
   Junior Software Engineer building thoughtful, human-centered digital solutions.
@@ -53,4 +56,4 @@ A human-centered web app for tracking decisions, recognizing patterns, and gaini
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/busra-demirhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/busra-demirhan)
