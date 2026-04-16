@@ -1,4 +1,4 @@
-## Hi, I'm Büşra 👋
+## Hi, I'm Büsra 👋
 
 I'm a Junior Software Engineer with a non-traditional background and a strong motivation to build thoughtful, human-centered digital solutions.
 
