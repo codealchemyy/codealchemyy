@@ -1,32 +1,60 @@
-## Hi, I'm Büsra 👋
+<p align="center">
+  <img src="YOUR-BANNER-IMAGE-LINK-HERE" alt="Banner" width="100%" />
+</p>
 
-I'm a Junior Software Engineer with a non-traditional background and a strong motivation to build thoughtful, human-centered digital solutions.
+<h1 align="center">Hi, I'm Büsra 👋</h1>
+<p align="center">
+  Junior Software Engineer building thoughtful, human-centered digital solutions.
+</p>
 
-After many years working in healthcare, I made a conscious career change into tech and successfully completed a full-time Software Engineering program at WBS CODING SCHOOL. Since then, I've been building practical experience through hands-on projects in frontend and backend development.
+<p align="center">
+  After transitioning from healthcare into tech, I completed a full-time Software Engineering program at WBS CODING SCHOOL and built hands-on experience in frontend and backend development.
+</p>
 
-### What I work with
-- JavaScript / TypeScript
-- React
-- Node.js / Express
-- Python
-- HTML / CSS
-- MongoDB / Mongoose
-- Git / GitHub
-- REST APIs
+---
 
-### What matters to me
-- clean and structured code
-- user-centered thinking
-- meaningful digital products
-- continuous learning
-- thoughtful collaboration
+## Tech Stack
 
-### Featured project
-**Decision Pattern Explorer**  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## Highlighted Project
+
+### Decision Pattern Explorer
 A human-centered web app for tracking decisions, recognizing patterns, and gaining insights over time.
 
-### Current focus
-I'm continuing to strengthen my frontend and backend foundations, improve my project quality, and grow into a developer who builds software with structure, empathy, and purpose.
+---
 
-### Let's connect
-[LinkedIn](www.linkedin.com/in/busra-demirhan)
+## Current Focus
+
+- strengthening frontend and backend foundations
+- improving project quality and architecture
+- building clean, user-centered applications
+- growing into a developer who combines structure, empathy, and purpose
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=codealchemyy&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codealchemyy&layout=compact&theme=transparent" height="160" />
+</p>
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-LINK-HERE)
