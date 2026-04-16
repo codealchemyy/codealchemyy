@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Büşra 👋
 
-<!--
-**codealchemyy/codealchemyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Software Engineer with a non-traditional background and a strong motivation to build thoughtful, human-centered digital solutions.
 
-Here are some ideas to get you started:
+After many years working in healthcare, I made a conscious career change into tech and successfully completed a full-time Software Engineering program at WBS CODING SCHOOL. Since then, I've been building practical experience through hands-on projects in frontend and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- JavaScript / TypeScript
+- React
+- Node.js / Express
+- Python
+- HTML / CSS
+- MongoDB / Mongoose
+- Git / GitHub
+- REST APIs
+
+### What matters to me
+- clean and structured code
+- user-centered thinking
+- meaningful digital products
+- continuous learning
+- thoughtful collaboration
+
+### Featured project
+**Decision Pattern Explorer**  
+A human-centered web app for tracking decisions, recognizing patterns, and gaining insights over time.
+
+### Current focus
+I'm continuing to strengthen my frontend and backend foundations, improve my project quality, and grow into a developer who builds software with structure, empathy, and purpose.
+
+### Let's connect
+[LinkedIn](www.linkedin.com/in/busra-demirhan)
