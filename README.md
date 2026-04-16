@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-BANNER-IMAGE-LINK-HERE" alt="Banner" width="100%" />
+  <img src="![Uploading Purple Game Development Reddit Banner.png…]()" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Büsra 👋</h1>
